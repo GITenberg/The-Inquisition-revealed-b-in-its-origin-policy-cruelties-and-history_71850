@@ -1,0 +1,27 @@
+_repo: The-Inquisition-revealed-b-in-its-origin-policy-cruelties-and-history_71850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Timpson, Thomas
+    gutenberg_agent_id: '56424'
+    url: http://www.gutenberg.org/2009/agents/56424
+description: ''
+gutenberg_issued: '2023-10-10'
+identifiers:
+  gutenberg: '71850'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t9z03197x&view=1up&seq=376
+pgterms:marc905: 20191118232655timpson
+pgterms:marc906: '1851'
+pgterms:marc907: GB
+production_note: Brian Coe, Chuck Greif and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bAylott and Jones, $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Inquisition revealed : $b in its origin, policy, cruelties, and history'
+url: http://www.gutenberg.org/ebooks/71850
