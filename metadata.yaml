@@ -1,11 +1,16 @@
 _repo: The-Inquisition-revealed-b-in-its-origin-policy-cruelties-and-history_71850
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71850-h/images/cover.jpg
 creator:
   author:
     agent_name: Timpson, Thomas
     gutenberg_agent_id: '56424'
     url: http://www.gutenberg.org/2009/agents/56424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71850#The-Inquisition-revealed-b-in-its-origin-policy-cruelties-and-history
 gutenberg_issued: '2023-10-10'
 identifiers:
   gutenberg: '71850'
